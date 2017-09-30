@@ -1,0 +1,1821 @@
+{
+    "msg": "",
+    "code": "succeed",
+    "login_status": 0,
+    "mall_uid": "epet_0",
+    "mall_user": "",
+    "sys_time": 1506172045,
+    "hash": "",
+    "epet_site": "epet",
+    "list": [
+        {
+            "gspid": "88128",
+            "gid": "196072",
+            "cateid": "7",
+            "subject": "美国原装进口 雅思ARTEMIS 中/大型犬配方全期犬粮 4磅(1.81kg)",
+            "presubject": "Fresh Mix系列 新鲜食材 小批量生产 易消化 营养吸收好",
+            "formats": " 4磅",
+            "formats_values": "{\"1543\":3891}",
+            "photo": "https://img1.epetbar.com/2017-05/15/16/e71e9107afe4d2c1bfb4c7324dfa4fdc.jpg",
+            "sale_price": "138.00",
+            "market_price": "165.60",
+            "youhui_price": "0.00",
+            "fm_shareid": "196072",
+            "brandid": "77",
+            "order": "16777215",
+            "stockmode": "2",
+            "replys": "18",
+            "asks": "5",
+            "sold": "售出:26",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 93,
+            "real_wid": "52",
+            "comments": "互动:23(100%好评)",
+            "dprice": "38.12元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/143b7ea7399146885f19d11af44d5a27.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "196072"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "95039",
+            "gid": "203264",
+            "cateid": "7",
+            "subject": "美国原装进口Lucy 鸭肉土豆低敏配方全犬粮 25磅(11.34kg)",
+            "presubject": "天然无谷 无鸭副产品  低敏清火 优化肠道消化",
+            "formats": " 25磅",
+            "formats_values": "{\"1543\":3901}",
+            "photo": "https://img1.epetbar.com/2017-08/09/10/37bdea23600c0baa56688a42a512f611.jpg",
+            "sale_price": "690.00",
+            "market_price": "828.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "203263",
+            "brandid": "1402",
+            "order": "16777215",
+            "stockmode": "2",
+            "replys": "0",
+            "asks": "0",
+            "sold": "售出:23",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 142,
+            "real_wid": "52",
+            "comments": "互动:0(100%好评)",
+            "dprice": "30.42元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/143b7ea7399146885f19d11af44d5a27.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "203264"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "5952",
+            "gid": "105952",
+            "cateid": "7",
+            "subject": "加拿大原装进口 Orijen渴望狗粮 六种鱼肉+美毛专用配方全犬粮 2kg",
+            "presubject": "80%深海鲜鱼（非冻鱼）成分 美毛/长肌肉/适口性高",
+            "formats": " 2kg",
+            "formats_values": "{\"1543\":3257}",
+            "photo": "https://img1.epetbar.com/2017-08/07/15/e26a27030c9e729255a1e69972f86ce0.jpg",
+            "sale_price": "290.00",
+            "market_price": "320.00",
+            "youhui_price": "259.00",
+            "fm_shareid": "105952",
+            "brandid": "142",
+            "order": "999999",
+            "stockmode": "2",
+            "replys": "7809",
+            "asks": "10330",
+            "sold": "售出:1.95w",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 1310,
+            "real_wid": "58",
+            "comments": "互动:1.81万(97%好评)",
+            "dprice": "72.50元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "7588",
+            "gid": "107588",
+            "cateid": "7",
+            "subject": "【保质期至2017-12-19】加拿大原装进口 Orijen渴望狗粮  大型犬幼犬配方狗粮 6kg",
+            "presubject": "针对大型犬幼犬特点调配 ",
+            "formats": " 6kg",
+            "formats_values": "{\"1543\":5079}",
+            "photo": "https://img1.epetbar.com/2016-08/22/18/872d9d65001d44a7cb7e86a04ccecdfb.jpg",
+            "sale_price": "620.00",
+            "market_price": "684.00",
+            "youhui_price": "459.00",
+            "fm_shareid": "107588",
+            "brandid": "142",
+            "order": "999999",
+            "stockmode": "2",
+            "replys": "1906",
+            "asks": "3132",
+            "sold": "售出:285",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 168,
+            "real_wid": "52",
+            "comments": "互动:5038(96%好评)",
+            "dprice": "51.66元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "107588"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "13978",
+            "gid": "113978",
+            "cateid": "7",
+            "subject": "比利时进口 鱼子酱Canine Caviar 特殊需求配方犬粮(低敏/减肥/老犬)  24磅(10.88kg)",
+            "presubject": "比利时进口 低脂肪低蛋白 维持体重和健康",
+            "formats": " 24磅",
+            "formats_values": "{\"1543\":11515}",
+            "photo": "https://img1.epetbar.com/2016-05/18/16/e43e994606cc02d6f5a6d99681d57d80.jpg",
+            "sale_price": "678.00",
+            "market_price": "813.60",
+            "youhui_price": "0.00",
+            "fm_shareid": "113978",
+            "brandid": "198",
+            "order": "999999",
+            "stockmode": "2",
+            "replys": "195",
+            "asks": "218",
+            "sold": "售出:548",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 16,
+            "real_wid": "58",
+            "comments": "互动:413(94%好评)",
+            "dprice": "31.15元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "88123",
+            "gid": "196067",
+            "cateid": "7",
+            "subject": "美国原装进口 雅思ARTEMIS 火鸡鹰嘴豆配方全犬粮 22磅(9.97kg)",
+            "presubject": "WDJ推荐 无谷系列 小批量生产 单一动物蛋白 低敏易消化 营养吸收好",
+            "formats": " 22磅",
+            "formats_values": "{\"1543\":10267}",
+            "photo": "https://img1.epetbar.com/2017-05/15/16/15751952f34a1024287194ab8901e53b.jpg",
+            "sale_price": "418.00",
+            "market_price": "501.60",
+            "youhui_price": "0.00",
+            "fm_shareid": "196065",
+            "brandid": "77",
+            "order": "999990",
+            "stockmode": "2",
+            "replys": "35",
+            "asks": "6",
+            "sold": "售出:70",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 18,
+            "real_wid": "52",
+            "comments": "互动:41(87%好评)",
+            "dprice": "20.96元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/143b7ea7399146885f19d11af44d5a27.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "196067"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "9839",
+            "gid": "109836",
+            "cateid": "7",
+            "subject": "美国原装进口天衡宝(原雪山) 限定系列 鸭薯配方成犬粮 26磅",
+            "presubject": "中国B2C平台战略合作伙伴 无谷天然粮 告别敏感泪痕烦恼 肥胖犬只可用",
+            "formats": " 26磅",
+            "formats_values": "{\"1543\":3921}",
+            "photo": "https://img1.epetbar.com/2017-08/07/16/a1c43badbc6e361591b0d4ce59e638a7.jpg",
+            "sale_price": "628.00",
+            "market_price": "754.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "146742",
+            "brandid": "82",
+            "order": "100000",
+            "stockmode": "2",
+            "replys": "4173",
+            "asks": "7158",
+            "sold": "售出:1.97w",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 3060,
+            "real_wid": "52",
+            "comments": "互动:1.13万(95%好评)",
+            "dprice": "26.65元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/143b7ea7399146885f19d11af44d5a27.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "109836"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "19998",
+            "gid": "120059",
+            "cateid": "7",
+            "subject": "【保质期至2017-12-10】加拿大原装进口 爱肯拿Acana 六星无谷深海鱼配方全犬粮 2kg",
+            "presubject": "加拿大渴望狗粮同厂出品 原装进口 增加含肉量 低过敏  健肤美毛",
+            "formats": " 2kg",
+            "formats_values": "{\"1543\":3257}",
+            "photo": "https://img1.epetbar.com/2017-02/10/18/d2c9f4e8542164714d0dea1b73dc2ea4.jpg",
+            "sale_price": "215.00",
+            "market_price": "230.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "131635",
+            "brandid": "413",
+            "order": "99009",
+            "stockmode": "2",
+            "replys": "2099",
+            "asks": "1789",
+            "sold": "售出:1.15w",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 564,
+            "real_wid": "58",
+            "comments": "互动:3888(96%好评)",
+            "dprice": "53.75元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "21887",
+            "gid": "122868",
+            "cateid": "7",
+            "subject": "加拿大原装进口  Orijen渴望狗粮  无谷成犬配方 6kg",
+            "presubject": "80%肉类蛋白 符合食肉本性",
+            "formats": " 6kg",
+            "formats_values": "{\"1543\":5079}",
+            "photo": "https://img1.epetbar.com/2016-08/22/18/5469a79e4b1c50b1361f7bd2ee2de2d2.jpg",
+            "sale_price": "600.00",
+            "market_price": "670.00",
+            "youhui_price": "479.00",
+            "fm_shareid": "121763",
+            "brandid": "142",
+            "order": "99009",
+            "stockmode": "2",
+            "replys": "3872",
+            "asks": "4558",
+            "sold": "售出:2837",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 85,
+            "real_wid": "52",
+            "comments": "互动:8430(97%好评)",
+            "dprice": "50.00元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "122868"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "48761",
+            "gid": "150972",
+            "cateid": "7",
+            "subject": "加拿大原装进口 Orijen渴望狗粮 爱犬红肉配方全犬粮 6kg",
+            "presubject": "加拿大原装进口  丰富多样化的肉类 无任何化学添加成分 ",
+            "formats": " 6kg",
+            "formats_values": "{\"1543\":5079}",
+            "photo": "https://img1.epetbar.com/2016-08/22/18/15e5315aa6ec7444852171fae890a768.jpg",
+            "sale_price": "750.00",
+            "market_price": "830.00",
+            "youhui_price": "735.00",
+            "fm_shareid": "147496",
+            "brandid": "142",
+            "order": "99009",
+            "stockmode": "2",
+            "replys": "873",
+            "asks": "1498",
+            "sold": "售出:644",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 117,
+            "real_wid": "52",
+            "comments": "互动:2371(98%好评)",
+            "dprice": "62.50元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {
+                "image": "https://static.epetbar.com/static_wap/appmall/lib/goods/gtype_1.png?version=2016071303",
+                "img_size": "74x45",
+                "target": {
+                    "mode": "goods",
+                    "param": "150972"
+                }
+            },
+            "subject_tip": "",
+            "goods_sign": 1,
+            "goods_icon": "//static.epetbar.com/mpet/images/goods_sign/hk-free.png?v=2016071303",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "18447",
+            "gid": "118508",
+            "cateid": "7",
+            "subject": "英国原装进口 海洋之星 深海鱼成犬粮 小颗粒 1.5kg",
+            "presubject": "英国进口 挪威深海鱼 抗敏感美毛无谷天然粮",
+            "formats": " 1.5kg",
+            "formats_values": "{\"1543\":3883}",
+            "photo": "https://img1.epetbar.com/2016-12/06/10/ed5bc3bc26caca36bdf0ad1f5eef7678.jpg",
+            "sale_price": "140.00",
+            "market_price": "160.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "125665",
+            "brandid": "127",
+            "order": "99008",
+            "stockmode": "2",
+            "replys": "3974",
+            "asks": "3260",
+            "sold": "售出:1.7w",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 382,
+            "real_wid": "58",
+            "comments": "互动:7234(97%好评)",
+            "dprice": "46.66元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/286bf32ac5ec5cf40c63a9f6a9d18f62.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [
+                {
+                    "image": "https://static.epetbar.com/static_wap/appmall/lib/list/cu.png?version=2016071303",
+                    "img_size": "30X30",
+                    "target": {}
+                },
+                {
+                    "image": "https://static.epetbar.com/static_wap/appmall/lib/list/tagongyi.png?version=2016071303",
+                    "img_size": "78X30",
+                    "target": {}
+                }
+            ],
+            "activityIcons": [
+                {
+                    "icon_char": "促",
+                    "icon_color": "#4FC0E8"
+                },
+                {
+                    "icon_char": "TA公益",
+                    "icon_color": "#e1191d"
+                }
+            ],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "82191",
+            "gid": "189781",
+            "cateid": "7",
+            "subject": "耐吉斯SOLUTION 鸡肉+三文鱼配方幼犬粮 3磅/1.36kg",
+            "presubject": "天然食材 低敏呵护 亮丽皮毛 美味享受",
+            "formats": " 1.36kg",
+            "formats_values": "{\"1543\":9899}",
+            "photo": "https://img1.epetbar.com/2016-12/21/10/ad634e600ecfece56fc3874748f37467.png",
+            "sale_price": "125.00",
+            "market_price": "155.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "189781",
+            "brandid": "931",
+            "order": "99008",
+            "stockmode": "2",
+            "replys": "529",
+            "asks": "68",
+            "sold": "售出:1792",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 114,
+            "real_wid": "58",
+            "comments": "互动:597(98%好评)",
+            "dprice": "45.95元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "82194",
+            "gid": "189784",
+            "cateid": "7",
+            "subject": "耐吉斯SOLUTION 鸡肉三文鱼配方大型犬成犬粮 28磅/12.7kg",
+            "presubject": "天然食材 低敏呵护 亮丽皮毛 美味享受",
+            "formats": "",
+            "formats_values": "[]",
+            "photo": "https://img1.epetbar.com/2016-12/21/10/98b2690e00a72f594802c4fdf7bc4132.png",
+            "sale_price": "640.00",
+            "market_price": "768.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "0",
+            "brandid": "931",
+            "order": "99007",
+            "stockmode": "2",
+            "replys": "14",
+            "asks": "10",
+            "sold": "售出:202",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 10,
+            "real_wid": "58",
+            "comments": "互动:24(93%好评)",
+            "dprice": "25.19元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "24798",
+            "gid": "126217",
+            "cateid": "7",
+            "subject": "比利时进口 鱼子酱Canine Caviar 御谷鸡肉全犬配方粮 11磅(4.99kg) ",
+            "presubject": "比利时进口 优质原料搭配 全面均衡营养 易吸收",
+            "formats": " 11磅",
+            "formats_values": "{\"1543\":3875}",
+            "photo": "https://img1.epetbar.com/2016-10/11/14/79dcca9c709c57a79cf00745fca743e2.jpg",
+            "sale_price": "388.00",
+            "market_price": "469.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "110157",
+            "brandid": "198",
+            "order": "99006",
+            "stockmode": "2",
+            "replys": "889",
+            "asks": "1159",
+            "sold": "售出:953",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 29,
+            "real_wid": "58",
+            "comments": "互动:2048(95%好评)",
+            "dprice": "38.87元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [
+                {
+                    "image": "https://static.epetbar.com/static_wap/appmall/lib/list/cu.png?version=2016071303",
+                    "img_size": "30X30",
+                    "target": {}
+                }
+            ],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "82192",
+            "gid": "189782",
+            "cateid": "7",
+            "subject": "耐吉斯SOLUTION 鸡肉+三文鱼成犬粮 3磅/1.36kg",
+            "presubject": "天然食材 低敏呵护 亮丽皮毛 美味享受",
+            "formats": " 1.36kg",
+            "formats_values": "{\"1543\":9899}",
+            "photo": "https://img1.epetbar.com/2016-12/21/10/d1910db9d7e66405c16f19d484cccd5b.png",
+            "sale_price": "120.00",
+            "market_price": "145.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "189787",
+            "brandid": "931",
+            "order": "99006",
+            "stockmode": "2",
+            "replys": "181",
+            "asks": "45",
+            "sold": "售出:946",
+            "unit": "包",
+            "isBest": "1",
+            "stock": 91,
+            "real_wid": "58",
+            "comments": "互动:226(99%好评)",
+            "dprice": "44.11元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "82201",
+            "gid": "189791",
+            "cateid": "7",
+            "subject": "耐吉斯SOLUTION 鸡肉三文鱼配方玩赏犬粮 18磅/8.16kg",
+            "presubject": "天然食材 低敏呵护 亮丽皮毛 美味享受",
+            "formats": " 8.16kg",
+            "formats_values": "{\"1543\":13466}",
+            "photo": "https://img1.epetbar.com/2016-12/21/10/3a471554df38a20f21148110ce579fb8.png",
+            "sale_price": "470.00",
+            "market_price": "564.00",
+            "youhui_price": "0.00",
+            "fm_shareid": "189790",
+            "brandid": "931",
+            "order": "99006",
+            "stockmode": "2",
+            "replys": "158",
+            "asks": "67",
+            "sold": "售出:362",
+            "unit": "包",
+            "isBest": "1",
+            "stock": 1,
+            "real_wid": "58",
+            "comments": "互动:225(100%好评)",
+            "dprice": "28.79元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/767d7a6fa90ae39212dc0e9c087cb524.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "3297",
+            "gid": "103297",
+            "cateid": "7",
+            "subject": "巴西原装进口 淘淘力派均衡系列小型犬成犬粮 2kg",
+            "presubject": "营养均衡 颗粒适口 美毛易消化",
+            "formats": " 2kg",
+            "formats_values": "{\"1543\":3257}",
+            "photo": "https://img1.epetbar.com/2016-10/11/12/eb799c18c74b347ba9fe2951c82328b2.jpg",
+            "sale_price": "160.00",
+            "market_price": "192.00",
+            "youhui_price": "108.00",
+            "fm_shareid": "103297",
+            "brandid": "103",
+            "order": "99005",
+            "stockmode": "2",
+            "replys": "1240",
+            "asks": "811",
+            "sold": "售出:5073",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 67,
+            "real_wid": "58",
+            "comments": "互动:2051(95%好评)",
+            "dprice": "40.00元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/206d67e78836f8af6192d38aae414392.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "11645",
+            "gid": "110033",
+            "cateid": "7",
+            "subject": "加拿大原装进口 百加世GO! 美毛系列 三文鱼全犬粮 25磅",
+            "presubject": "低蛋白配方 护肤美毛 预防泪痕 健胃助消化",
+            "formats": " 25磅",
+            "formats_values": "{\"1543\":3901}",
+            "photo": "https://img1.epetbar.com/2017-03/07/10/158bc707fed97f7e67df53d4043ea24a.jpg",
+            "sale_price": "679.00",
+            "market_price": "814.80",
+            "youhui_price": "0.00",
+            "fm_shareid": "119987",
+            "brandid": "4",
+            "order": "99005",
+            "stockmode": "2",
+            "replys": "892",
+            "asks": "777",
+            "sold": "售出:2704",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 107,
+            "real_wid": "58",
+            "comments": "互动:1669(95%好评)",
+            "dprice": "29.96元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "12239",
+            "gid": "112239",
+            "cateid": "7",
+            "subject": "加拿大原装进口  百加世NOW FRESH 无谷全犬种幼犬粮 6磅 ",
+            "presubject": "加拿大原装进口   提高免疫力 促进消化系统",
+            "formats": " 6磅",
+            "formats_values": "{\"1543\":3923}",
+            "photo": "https://img1.epetbar.com/2017-03/07/10/70a552b56cea57a8e932ac4a9723b2ae.jpg",
+            "sale_price": "249.00",
+            "market_price": "298.80",
+            "youhui_price": "211.50",
+            "fm_shareid": "112239",
+            "brandid": "3",
+            "order": "99005",
+            "stockmode": "2",
+            "replys": "2811",
+            "asks": "5240",
+            "sold": "售出:1.74w",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 208,
+            "real_wid": "58",
+            "comments": "互动:8051(94%好评)",
+            "dprice": "45.77元/斤",
+            "country_photo": "https://img2.epetbar.com/nowater/2016-08/12/16/a5b3b8bc1114ddffce177d007b6346a9.jpg",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        },
+        {
+            "gspid": "19482",
+            "gid": "119543",
+            "cateid": "7",
+            "subject": "妙趣Mutural 三文鱼蔬菜沙拉成犬粮 10kg",
+            "presubject": "选用美国FDA核准的食品乳酸菌 从源头防止过敏",
+            "formats": " 10kg",
+            "formats_values": "{\"1543\":4225}",
+            "photo": "https://img1.epetbar.com/2016-12/06/14/47d80137567e1d8a53e0a5f534d3eb3d.jpg",
+            "sale_price": "388.00",
+            "market_price": "465.60",
+            "youhui_price": "0.00",
+            "fm_shareid": "119543",
+            "brandid": "389",
+            "order": "99005",
+            "stockmode": "2",
+            "replys": "1058",
+            "asks": "579",
+            "sold": "售出:3746",
+            "unit": "袋",
+            "isBest": "1",
+            "stock": 51,
+            "real_wid": "58",
+            "comments": "互动:1637(98%好评)",
+            "dprice": "19.40元/斤",
+            "country_photo": "",
+            "with_me": "",
+            "gtype_icon": {},
+            "subject_tip": "",
+            "goods_sign": 0,
+            "goods_icon": "",
+            "activityLabels": [],
+            "activityIcons": [],
+            "send_ware": "",
+            "extend_pam": ""
+        }
+    ],
+    "window": {
+        "is_show": 0,
+        "content": []
+    },
+    "cateid": 7,
+    "typeid": "7",
+    "redword": "",
+    "keyword": "",
+    "default_params": [
+        {
+            "name": "search_site",
+            "value": ""
+        },
+        {
+            "name": "hide_recommend",
+            "value": 1
+        },
+        {
+            "name": "pet_arg",
+            "value": "dog"
+        }
+    ],
+    "searchbar_params": [
+        {
+            "name": "search_site",
+            "value": ""
+        }
+    ],
+    "sort_rank": [
+        {
+            "title": "默认",
+            "type": "default",
+            "list": [
+                {
+                    "item": "默认排序",
+                    "value": "def_desc",
+                    "checked": 1,
+                    "short_name": "默认"
+                },
+                {
+                    "item": "按人气",
+                    "value": "views_desc",
+                    "checked": 0,
+                    "short_name": "人气"
+                },
+                {
+                    "item": "最新上架",
+                    "value": "lastupdate_desc",
+                    "checked": 0,
+                    "short_name": "最新"
+                },
+                {
+                    "item": "按评论",
+                    "value": "replys_desc",
+                    "checked": 0,
+                    "short_name": "评论"
+                }
+            ]
+        },
+        {
+            "title": "销量",
+            "type": "sold",
+            "list": [
+                {
+                    "item": "销量",
+                    "value": "sold_desc",
+                    "checked": 0,
+                    "short_name": "销量"
+                }
+            ]
+        },
+        {
+            "title": "价格",
+            "type": "price",
+            "list": [
+                {
+                    "item": "价格升",
+                    "value": "price_asc",
+                    "checked": 0,
+                    "short_name": "价格升"
+                },
+                {
+                    "item": "价格降",
+                    "value": "price_desc",
+                    "checked": 0,
+                    "short_name": "价格降"
+                }
+            ]
+        }
+    ],
+    "goodsrank": [],
+    "total_count": 962,
+    "total_page": 49,
+    "recommend_screen": [
+        {
+            "is_quick": 1,
+            "name": "年龄",
+            "varname": "attr_20",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 3543,
+                    "name": "全犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3539,
+                    "name": "幼犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3537,
+                    "name": "成犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3541,
+                    "name": "离乳&怀孕哺乳期",
+                    "checked": 0
+                },
+                {
+                    "id": 3535,
+                    "name": "老犬期（低热量/减肥）",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 1,
+            "name": "体型",
+            "varname": "attr_19",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 3531,
+                    "name": "小型犬",
+                    "checked": 0
+                },
+                {
+                    "id": 3529,
+                    "name": "中大型犬",
+                    "checked": 0
+                },
+                {
+                    "id": 3533,
+                    "name": "全体型",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 1,
+            "name": "颗粒大小",
+            "varname": "attr_3354",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 4781,
+                    "name": "小颗粒",
+                    "checked": 0
+                },
+                {
+                    "id": 4779,
+                    "name": "标准粒",
+                    "checked": 0
+                },
+                {
+                    "id": 4777,
+                    "name": "大颗粒",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 0,
+            "name": "均价",
+            "varname": "attr_21",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 6786,
+                    "name": "10元以下",
+                    "checked": 0
+                },
+                {
+                    "id": 3557,
+                    "name": "10.1-15元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3555,
+                    "name": "15.1-20元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3553,
+                    "name": "20.1-25元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3551,
+                    "name": "25.1-30元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3549,
+                    "name": "30.1-40元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3547,
+                    "name": "40.1-50元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3545,
+                    "name": "50.1元以上/斤",
+                    "checked": 0
+                }
+            ]
+        }
+    ],
+    "filterBoxData": [
+        {
+            "is_quick": 1,
+            "name": "品牌",
+            "varname": "brandid",
+            "rows": [
+                {
+                    "letter": "0",
+                    "items": [
+                        {
+                            "id": 0,
+                            "name": "全部",
+                            "checked": 1
+                        }
+                    ]
+                },
+                {
+                    "letter": "A",
+                    "items": [
+                        {
+                            "id": "259",
+                            "name": "安娜玛特Annamaet",
+                            "checked": 0
+                        },
+                        {
+                            "id": "413",
+                            "name": "爱肯拿Acana",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1253",
+                            "name": "爱诺Eminent",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "B",
+                    "items": [
+                        {
+                            "id": "103",
+                            "name": "巴西淘淘力派",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1422",
+                            "name": "Barking Heads",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "C",
+                    "items": [
+                        {
+                            "id": "691",
+                            "name": "超越Zignature",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "D",
+                    "items": [
+                        {
+                            "id": "725",
+                            "name": "ZIWI Peak",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "F",
+                    "items": [
+                        {
+                            "id": "291",
+                            "name": "枫树大道Maples",
+                            "checked": 0
+                        },
+                        {
+                            "id": "316",
+                            "name": "福摩Fromm",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "G",
+                    "items": [
+                        {
+                            "id": "4",
+                            "name": "GO",
+                            "checked": 0
+                        },
+                        {
+                            "id": "13",
+                            "name": "贵族Natures Gift",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "H",
+                    "items": [
+                        {
+                            "id": "127",
+                            "name": "海洋之星Fish4Dogs",
+                            "checked": 0
+                        },
+                        {
+                            "id": "599",
+                            "name": "荒野盛宴",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1399",
+                            "name": "黑鹰Black Hawk",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "J",
+                    "items": [
+                        {
+                            "id": "410",
+                            "name": "极誉Best Breed",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "K",
+                    "items": [
+                        {
+                            "id": "19",
+                            "name": "卡比CANIDAE",
+                            "checked": 0
+                        },
+                        {
+                            "id": "142",
+                            "name": "渴望",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1306",
+                            "name": "克劳德医生",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "L",
+                    "items": [
+                        {
+                            "id": "1171",
+                            "name": "LINGDOK",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1402",
+                            "name": "Lucy Pet",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "M",
+                    "items": [
+                        {
+                            "id": "389",
+                            "name": "妙趣Mutural",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "N",
+                    "items": [
+                        {
+                            "id": "3",
+                            "name": "NOW FRESH",
+                            "checked": 0
+                        },
+                        {
+                            "id": "20",
+                            "name": "牛油果AVODerm",
+                            "checked": 0
+                        },
+                        {
+                            "id": "931",
+                            "name": "耐吉斯",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "O",
+                    "items": [
+                        {
+                            "id": "153",
+                            "name": "欧奇斯Organix",
+                            "checked": 0
+                        },
+                        {
+                            "id": "947",
+                            "name": "欧帝亿",
+                            "checked": 0
+                        },
+                        {
+                            "id": "982",
+                            "name": "澳维加OZVIC",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1514",
+                            "name": "欧冠",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "P",
+                    "items": [
+                        {
+                            "id": "953",
+                            "name": "派斯宝",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1319",
+                            "name": "顶尖PINNACLE",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1384",
+                            "name": "益生菌ProBioticLIVE",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "S",
+                    "items": [
+                        {
+                            "id": "126",
+                            "name": "素力高Solid Gold",
+                            "checked": 0
+                        },
+                        {
+                            "id": "181",
+                            "name": "Instinct生鲜本能",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "T",
+                    "items": [
+                        {
+                            "id": "82",
+                            "name": "天衡宝（原雪山）",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "W",
+                    "items": [
+                        {
+                            "id": "378",
+                            "name": "Wellness",
+                            "checked": 0
+                        },
+                        {
+                            "id": "895",
+                            "name": "维采 Vets Choice",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "X",
+                    "items": [
+                        {
+                            "id": "409",
+                            "name": "希尔斯",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "Y",
+                    "items": [
+                        {
+                            "id": "77",
+                            "name": "雅思Artemis",
+                            "checked": 0
+                        },
+                        {
+                            "id": "198",
+                            "name": "鱼子酱Canine Caviar",
+                            "checked": 0
+                        },
+                        {
+                            "id": "1336",
+                            "name": "原之选Canagan",
+                            "checked": 0
+                        }
+                    ]
+                },
+                {
+                    "letter": "Z",
+                    "items": [
+                        {
+                            "id": "887",
+                            "name": "Zeal",
+                            "checked": 0
+                        }
+                    ]
+                }
+            ],
+            "hot_rows": [
+                {
+                    "id": 0,
+                    "name": "全部",
+                    "checked": 1
+                },
+                {
+                    "id": "82",
+                    "name": "天衡宝（原雪山）",
+                    "checked": 0
+                },
+                {
+                    "id": "181",
+                    "name": "Instinct生鲜本能",
+                    "checked": 0
+                },
+                {
+                    "id": "20",
+                    "name": "牛油果AVODerm",
+                    "checked": 0
+                },
+                {
+                    "id": "127",
+                    "name": "海洋之星Fish4Dogs",
+                    "checked": 0
+                },
+                {
+                    "id": "1402",
+                    "name": "Lucy Pet",
+                    "checked": 0
+                },
+                {
+                    "id": "77",
+                    "name": "雅思Artemis",
+                    "checked": 0
+                },
+                {
+                    "id": "13",
+                    "name": "贵族Natures Gift",
+                    "checked": 0
+                },
+                {
+                    "id": "725",
+                    "name": "ZIWI Peak",
+                    "checked": 0
+                },
+                {
+                    "id": "691",
+                    "name": "超越Zignature",
+                    "checked": 0
+                },
+                {
+                    "id": "1399",
+                    "name": "黑鹰Black Hawk",
+                    "checked": 0
+                },
+                {
+                    "id": "1306",
+                    "name": "克劳德医生",
+                    "checked": 0
+                },
+                {
+                    "id": "142",
+                    "name": "渴望",
+                    "checked": 0
+                },
+                {
+                    "id": "413",
+                    "name": "爱肯拿Acana",
+                    "checked": 0
+                },
+                {
+                    "id": "316",
+                    "name": "福摩Fromm",
+                    "checked": 0
+                },
+                {
+                    "id": "19",
+                    "name": "卡比CANIDAE",
+                    "checked": 0
+                },
+                {
+                    "id": "3",
+                    "name": "NOW FRESH",
+                    "checked": 0
+                },
+                {
+                    "id": "4",
+                    "name": "GO",
+                    "checked": 0
+                },
+                {
+                    "id": "599",
+                    "name": "荒野盛宴",
+                    "checked": 0
+                },
+                {
+                    "id": "103",
+                    "name": "巴西淘淘力派",
+                    "checked": 0
+                },
+                {
+                    "id": "291",
+                    "name": "枫树大道Maples",
+                    "checked": 0
+                },
+                {
+                    "id": "126",
+                    "name": "素力高Solid Gold",
+                    "checked": 0
+                },
+                {
+                    "id": "259",
+                    "name": "安娜玛特Annamaet",
+                    "checked": 0
+                },
+                {
+                    "id": "1384",
+                    "name": "益生菌ProBioticLIVE",
+                    "checked": 0
+                },
+                {
+                    "id": "1253",
+                    "name": "爱诺Eminent",
+                    "checked": 0
+                },
+                {
+                    "id": "947",
+                    "name": "欧帝亿",
+                    "checked": 0
+                },
+                {
+                    "id": "887",
+                    "name": "Zeal",
+                    "checked": 0
+                },
+                {
+                    "id": "409",
+                    "name": "希尔斯",
+                    "checked": 0
+                },
+                {
+                    "id": "378",
+                    "name": "Wellness",
+                    "checked": 0
+                },
+                {
+                    "id": "198",
+                    "name": "鱼子酱Canine Caviar",
+                    "checked": 0
+                },
+                {
+                    "id": "931",
+                    "name": "耐吉斯",
+                    "checked": 0
+                },
+                {
+                    "id": "895",
+                    "name": "维采 Vets Choice",
+                    "checked": 0
+                },
+                {
+                    "id": "1171",
+                    "name": "LINGDOK",
+                    "checked": 0
+                },
+                {
+                    "id": "153",
+                    "name": "欧奇斯Organix",
+                    "checked": 0
+                },
+                {
+                    "id": "982",
+                    "name": "澳维加OZVIC",
+                    "checked": 0
+                },
+                {
+                    "id": "389",
+                    "name": "妙趣Mutural",
+                    "checked": 0
+                },
+                {
+                    "id": "1336",
+                    "name": "原之选Canagan",
+                    "checked": 0
+                },
+                {
+                    "id": "410",
+                    "name": "极誉Best Breed",
+                    "checked": 0
+                },
+                {
+                    "id": "1422",
+                    "name": "Barking Heads",
+                    "checked": 0
+                },
+                {
+                    "id": "1514",
+                    "name": "欧冠",
+                    "checked": 0
+                },
+                {
+                    "id": "1319",
+                    "name": "顶尖PINNACLE",
+                    "checked": 0
+                },
+                {
+                    "id": "953",
+                    "name": "派斯宝",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 1,
+            "name": "年龄",
+            "varname": "attr_20",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 3543,
+                    "name": "全犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3539,
+                    "name": "幼犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3537,
+                    "name": "成犬期",
+                    "checked": 0
+                },
+                {
+                    "id": 3541,
+                    "name": "离乳&怀孕哺乳期",
+                    "checked": 0
+                },
+                {
+                    "id": 3535,
+                    "name": "老犬期（低热量/减肥）",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 1,
+            "name": "体型",
+            "varname": "attr_19",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 3531,
+                    "name": "小型犬",
+                    "checked": 0
+                },
+                {
+                    "id": 3529,
+                    "name": "中大型犬",
+                    "checked": 0
+                },
+                {
+                    "id": 3533,
+                    "name": "全体型",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 1,
+            "name": "颗粒大小",
+            "varname": "attr_3354",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 4781,
+                    "name": "小颗粒",
+                    "checked": 0
+                },
+                {
+                    "id": 4779,
+                    "name": "标准粒",
+                    "checked": 0
+                },
+                {
+                    "id": 4777,
+                    "name": "大颗粒",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 0,
+            "name": "均价",
+            "varname": "attr_21",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 6786,
+                    "name": "10元以下",
+                    "checked": 0
+                },
+                {
+                    "id": 3557,
+                    "name": "10.1-15元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3555,
+                    "name": "15.1-20元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3553,
+                    "name": "20.1-25元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3551,
+                    "name": "25.1-30元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3549,
+                    "name": "30.1-40元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3547,
+                    "name": "40.1-50元/斤",
+                    "checked": 0
+                },
+                {
+                    "id": 3545,
+                    "name": "50.1元以上/斤",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 0,
+            "name": "重量",
+            "varname": "attr_5917",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 5919,
+                    "name": "超小包（1.5kg以下）",
+                    "checked": 0
+                },
+                {
+                    "id": 5921,
+                    "name": "小包（1.5-5kg）",
+                    "checked": 0
+                },
+                {
+                    "id": 5923,
+                    "name": "中包（5.1-10kg）",
+                    "checked": 0
+                },
+                {
+                    "id": 5925,
+                    "name": "大包（10.1-15kg）",
+                    "checked": 0
+                },
+                {
+                    "id": 5927,
+                    "name": "超大包（15kg以上）",
+                    "checked": 0
+                }
+            ]
+        },
+        {
+            "is_quick": 0,
+            "name": "主要配方",
+            "varname": "attr_3355",
+            "rows": [
+                {
+                    "id": 0,
+                    "name": "不限制",
+                    "checked": 1
+                },
+                {
+                    "id": 6512,
+                    "name": "火鸡肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4795,
+                    "name": "鸡肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4793,
+                    "name": "牛肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4791,
+                    "name": "羊肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4789,
+                    "name": "鱼肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4787,
+                    "name": "鸭肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4785,
+                    "name": "鹿肉",
+                    "checked": 0
+                },
+                {
+                    "id": 4783,
+                    "name": "其它",
+                    "checked": 0
+                }
+            ]
+        }
+    ],
+    "pet_type_recommend": [],
+    "no_goods_tip": "sorry～当前分类下暂无数据！",
+    "sc_data": [
+        {
+            "key": "Category",
+            "value": 7
+        }
+    ]
+}
